@@ -1,0 +1,309 @@
+body{
+    font-style: italic;
+    padding: 0;
+    margin: o;
+    
+    background-color: #ece6e6;
+}
+header{
+    color: white;
+    box-shadow: 0px 3px 15px 1px white;
+    border: 1px solid black;
+    background-color: grey;
+}
+.logo span i, .logo a {
+    color: #f3eeeec7;
+    text-decoration: none;
+    font-size: 16px;
+    padding-left: 3px;
+}
+
+.logo {
+    color: white;
+    margin-top: 13px;
+    /* background: #9c9191; */
+    width: 5%;
+}
+.nav-icon {
+    align-items: self-start;
+    display: flex;
+    padding-left: 8%;
+    white-space: 13%;
+    margin-top: -15px;
+}
+.user {
+    padding-left: 23px;
+}
+.envelop {
+    padding-left: 24px;
+}
+.bell {
+    padding-left: 27px;
+}
+.avatar span img {
+    margin-left: 4936%;
+    /* display: flex; */
+    /* justify-content: end; */
+    width: 20px;
+    height: 22px;
+    /* border: 2px solid white; */
+}
+
+.main-p{
+    box-shadow: 1px 2px 4px 2px white;
+    margin-top: 2%;
+    margin-left: 11%;
+    width: 20%;
+    /* border: 2px solid black; */
+}
+.profile span img {
+    border-radius: 72px;
+}
+.profile{
+    text-align: center;
+    
+}
+.pen span i, .pen a {
+    /* box-shadow: 1px 2px 4px 2px white; */
+    color:black;
+    text-decoration: none;
+    font-size: 12px;
+    padding-left: 3px;
+}
+i.fa-solid.fa-pen {
+    font-size: 10px;
+}
+.home span i, .home a {
+    color:black;
+    text-decoration: none;
+    font-size: 12px;
+    padding-left: 3px;
+}
+i.fa-solid.fa-house {
+    font-size: 10px;
+}
+.date span i, .date a {
+    color:black;
+    text-decoration: none;
+    font-size: 12px;
+    padding-left: 3px;
+}
+i.fa-solid.fa-cake-candles {
+    font-size: 10px;
+}
+.my{
+    box-shadow: 1px 2px 4px 2px white;
+    margin-top: 1%;
+    margin-left: 11%;
+    width: 20%;
+    /* border: 2px solid black; */
+    background-color: #9c9191;
+}
+.grps span i, .grps a {
+    color:black;
+    text-decoration: none;
+    font-size: 13px;
+    padding-left: 3px;
+}
+.events span i, .events a {
+    color:black;
+    text-decoration: none;
+    font-size: 13px;
+    padding-left: 3px;
+}
+.photos span i, .photos a {
+    color:black;
+    text-decoration: none;
+    font-size: 13px;
+    padding-left: 3px;
+}
+.intrest{
+    box-shadow: 1px 2px 4px 2px white;
+    margin-top: 1%;
+    margin-left: 11%;
+    width: 20%;
+    /* border: 2px solid black; */
+    background-color: white;
+}
+.intrest a{
+    font-size: 12px;
+    text-decoration: none;
+    border: 1px solid black;
+    color: white;
+
+}
+.hey{
+    background-color: lightgray;
+    box-shadow: 1px 2px 4px 2px white;
+    margin-top: 1%;
+    margin-left: 11%;
+    width: 20%;
+    /* border: 2px solid black; */
+}
+.fa-solid.fa-xmark{
+    margin-left: 95%;
+
+}
+.SMT{
+    text-decoration: none;
+    box-shadow: 1px 2px 4px 2px white;
+    margin-top: -35.3%;
+    /* display: flex; */
+    margin-left: 32.5%;
+    width: 40%;
+    /* border: 2px solid black; */
+}
+.fa-solid .fa-pen{
+    text-decoration: none;
+}
+/* .post a{
+    border: 1px solid grey;
+    color: grey;
+    text-decoration: none;
+} */
+.post span i, .post a {
+    /* border: 1px solid gray; */
+    color: gray;
+    text-decoration: none;
+    font-size: 18px;
+    padding-left: 3px;
+}
+.SH{
+    text-decoration: none;
+    box-shadow: 1px 2px 4px 2px white;
+    margin-top: 1%;
+    /* display: flex; */
+    margin-left: 32.5%;
+    width: 40%;
+    /* border: 2px solid black; */
+}
+.shaarif{
+    margin-top: 1%;
+    margin-left: 1%;
+    border-radius: 50%;
+}
+/* .SH span{
+    font-size: 12px;
+} */
+.shary{
+    
+    font-size: 13px;
+}
+span.lorem{
+    font-size: 13px;
+    margin-left: 22px;
+}
+
+.tree{
+    padding-left: 2%;
+    display: flex;
+    justify-content: space-evenly;
+}
+.like-comm{
+    border: 1px solid rgb(20, 20, 20);
+    display: flex;
+    justify-content:space-between;
+}
+.like-comm a{
+    text-decoration: none;
+    color: white;
+    background-color: #9c9191;
+}
+.like{
+    /* background-color: rgb(46, 43, 43); */
+    border: 2px solid grey;   
+}
+i.fa-solid.fa-thumbs-up {
+    color: white;
+    background-color: gray;
+}
+.comm{
+    /* background-color: rgb(46, 43, 43); */
+    border: 2px solid grey;   
+
+}
+i.fa-solid.fa-comment {
+    color: white;
+    background-color: grey;
+}
+.new-post{
+    text-decoration: none;
+    box-shadow: -1px -3px 13px 2px white;
+    margin-top: 9%;
+    /* display: flex; */
+    margin-left: 32.5%;
+    width: 40%;
+    /* border: 2px solid black; */
+}
+
+.U-events{
+    text-align: center;
+    font-size: 14px;
+    text-decoration: none;
+    box-shadow: 1px 2px 4px 2px white;
+    margin-top: -57.2%;
+    /* display: flex; */
+    margin-left: 74.5%;
+    width: 12%;
+    /* border: 2px solid black; */
+}
+.U-events a{
+    font-size: 14px;
+    text-align: center;
+    text-decoration: none;
+    background-color: lightslategrey;
+    color: white;
+    /* border: 1px solid gray; */
+    /* width: 2%; */
+}
+.Friend-req{
+    text-align: center;
+    font-size: 14px;
+    text-decoration: none;
+    box-shadow: 1px 2px 4px 2px white;
+    margin-top: 1.7%;
+    /* display: flex; */
+    margin-left: 74.5%;
+    width: 12%;
+    /* border: 2px solid black; */
+
+}
+
+.FRD{
+    display: flex;
+   margin-left: 12px;
+}
+.accept{
+    width: 45%;
+    background-color: rgba(0, 0, 0, 0.103);
+
+}
+.cancel{
+    width: 45%;
+    background-color: rgba(0, 0, 0, 0);
+
+}
+.ads{
+    text-align: center;
+    font-size: 14px;
+    text-decoration: none;
+    box-shadow: 1px 2px 4px 2px white;
+    margin-top: 1.7%;
+    /* display: flex; */
+    margin-left: 74.5%;
+    width: 8%;
+    /* border: 2px solid black; */
+    padding: 2%;
+}
+.ant{
+    text-align: center;
+    font-size: 40px;
+    text-decoration: none;
+    box-shadow: 1px 2px 4px 2px white;
+    margin-top: 1.7%;
+    /* display: flex; */
+    margin-left: 74.5%;
+    width: 8%;
+    /* border: 2px solid black; */
+    padding: 2%;
+}
